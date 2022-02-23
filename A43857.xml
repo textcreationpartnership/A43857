@@ -1,0 +1,466 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached in the parish church of Newbury, Berks, on the 26th of July, 1685 being the day of Thanksgiving for His Majesty's late victory over the rebels / by John Hinton.</title>
+            <author>Hinton, John, d. 1720.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 62 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43857</idno>
+            <idno type="STC">Wing H2068</idno>
+            <idno type="STC">ESTC R13017</idno>
+            <idno type="EEBO-CITATION">11829277</idno>
+            <idno type="OCLC">ocm 11829277</idno>
+            <idno type="VID">49716</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43857)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49716)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 497:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached in the parish church of Newbury, Berks, on the 26th of July, 1685 being the day of Thanksgiving for His Majesty's late victory over the rebels / by John Hinton.</title>
+                  <author>Hinton, John, d. 1720.</author>
+               </titleStmt>
+               <extent>[8], 31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Walter Kettilby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published at the joynt and earnest request of the mayor, aldermen, and burgesses, and other inhabitants of the place."</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Samuel, 2nd, XVIII, 28 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Rye House Plot, 1683 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:49716:1"/>
+            <p>Imprimatur, <hi>Hen. Maurice</hi> Reverend. Dom. Guliel. Archiep Cant. à Sacris.</p>
+            <p>
+               <hi>Auguſt.</hi> 7. 1685.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:49716:1"/>
+            <p>A SERMON Preached in the Pariſh Church of NEWBURY, <hi>Berks,</hi> On the 26th of <hi>July,</hi> 1685.</p>
+            <p>Being the Day of Thanksgiving for His Majeſty's Late Victory over the Rebels.</p>
+            <p>By <hi>John Hinton,</hi> A. M. Rector of the ſaid Church, and Prebendary of the Church of <hi>Sarum.</hi>
+            </p>
+            <p>Publiſhed at the Joynt and Earneſt Requeſt of the Mayor, Aldermen, and Burgeſſes, and other Inhabi<g ref="char:EOLhyphen"/>tants of the Place.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Walter Kettilby</hi> at the <hi>Biſhop</hi>'s-<hi>Head</hi> in St. <hi>Paul</hi>'s Church-yard, 1685.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:49716:2"/>
+            <pb facs="tcp:49716:2"/>
+            <head>TO THE Right Reverend Father in God SETH, Lord Biſhop of <hi>SAR<g ref="char:V">Ʋ</g>M.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>THough the Acceptance, this plain Diſcourſe has met with, among thoſe that honour the King and love the Church in the place where 'twas Preached, be a ſlender Excuſe for expoſing ſo very ſlender a Performance to the Cenſure of the World; yet I am conſcious to my ſelf, I ſhould deſerve to be more cenſured, and have much leſs to excuſe me, if having ventured upon this occaſion to appear in publick, I ſhould not take the Opportunity to make my Acknowledgment of your Lordſhips Favours to the Author, as publick as the Diſcourſe.</p>
+            <p>I am not ſo vain to crave your Lordſhips Patronage, for what I know to be ſo unworthy of your Lordſhips View: Nor do I make this Addreſs to court your Ap<g ref="char:EOLhyphen"/>probation of a Sermon, too mean for ſo great a Judg<g ref="char:EOLhyphen"/>ment, as your Lordſhips to Approve; being Compoſed only for a Vulgar Auditory, and it ſelf too vulgar even for that: But the deſign of it, how weakly ſoever mana<g ref="char:EOLhyphen"/>ged,
+<pb facs="tcp:49716:3" rendition="simple:additions"/>being to promote Piety to God, and Loyalty to the King, Obedience and Gratitude to both, I am willing to hope, your Lordſhip, who are your Self ſo Eminent an Ex<g ref="char:EOLhyphen"/>ample of all, will Pardon the Faults of the Compoſition for the Honeſty of the Deſign; and forgive the preſump<g ref="char:EOLhyphen"/>tion of prefixing ſo Great a Name to ſo Small &amp; Thing; when the only end of it, is to teſtify to the World, the Senſe I have of thoſe many perſonal Obligations, your Lordſhip has laid upon me which I never was, nor am ever like to be in a Capacity to deſerve. And altho in pub<g ref="char:EOLhyphen"/>liſhing this Diſcourſe, I have ſufficiently publiſhed my own Weakneſs to a Critical and Cenſorious Age; yet, if by this means I can but publiſh at once my Gratitude to your Lordſhip for your Lordſhips Kindneſs to my Self, I am content to undergo the worst of Cenſures, that either Good or Bad Men can paſs upon,</p>
+            <closer>
+               <signed>
+                  <hi>My Lord, Your Lordſhip's moſt Obliged and Obedient Servant,</hi> John Hinton.</signed>
+            </closer>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:49716:3"/>
+            <head>SERMONS Printed for <hi>Walter Kettilby</hi> at the <hi>Biſhops Head</hi> in St. <hi>Pauls-Church-Yard.</hi>
+            </head>
+            <list>
+               <item>Dr. <hi>Scot</hi>'s Sermon before the L. Mayor, <hi>July</hi> 26th. 85. 4<hi rend="sup">o.</hi>
+               </item>
+               <item>Mr. <hi>Wagſtaff</hi>'s Sermon, <hi>July</hi> 26th. 1685. 4<hi rend="sup">o.</hi>
+               </item>
+               <item>Mr. <hi>Cooke</hi>'s Sermon, <hi>July</hi> 26th. 1685. 4<hi rend="sup">o.</hi>
+               </item>
+               <item>Dr. <hi>Turner</hi>'s Sermon at <hi>White-Hall, May</hi> 29th. 4<hi rend="sup">o.</hi>
+               </item>
+               <item>Dr. <hi>Sharpe</hi>'s Sermon at <hi>White hall, March</hi> 20th. 4<hi rend="sup">o.</hi>
+               </item>
+               <item>Dr. <hi>Scot</hi>'s Sermon before the L. Mayor, <hi>Dec.</hi> 16th. 4<hi rend="sup">o.</hi>
+               </item>
+               <item>Mr. <hi>Brown</hi>'s Sermon, about the Obſervation of Holy-Days, 4<hi rend="sup">o.</hi>
+               </item>
+               <item>Mr. <hi>Leigh</hi>'s Sermon of the keeping of Holy-Days, 4<hi rend="sup">o.</hi>
+               </item>
+               <item>Mr. <hi>Gaskarth</hi>'s Viſitation Sermon at <hi>Briſtol,</hi> 4<hi rend="sup">o.</hi>
+               </item>
+               <item>Mr. <hi>Holland</hi>'s Sermon at the Aſſizes at <hi>Leiceſter,</hi> 4<hi rend="sup">o.</hi>
+               </item>
+               <item>Mr. <hi>Lamb</hi>'s Sermon, the Liberty of Humane Nature, 4<hi rend="sup">o.</hi>
+               </item>
+               <item>Mr. <hi>Wagstaff</hi>'s Sermon before the Lord Mayor, 4<hi rend="sup">o.</hi> 1684.</item>
+               <item>—Sermon, <hi>September</hi> 9th. 1683.</item>
+               <item>Mr. <hi>Gipps</hi>'s three Sermons, 4<hi rend="sup">o.</hi>
+               </item>
+               <item>Mr. <hi>Graile</hi>'s four Sermons at <hi>Norwich,</hi> 8vo.</item>
+               <item>Dr. <hi>Bridge</hi>'s Sermon before the Lord Mayor, 4<hi rend="sup">o.</hi>
+               </item>
+               <item>Mr. <hi>Turner</hi>'s Sermon before Sir <hi>Patience Ward,</hi> 4<hi rend="sup">o.</hi>
+               </item>
+               <item>—Sermon, <hi>September</hi> 9th. 4<hi rend="sup">o.</hi>
+               </item>
+               <item>—The Divine Omnipreſence, 4<hi rend="sup">o.</hi>
+               </item>
+               <item>—About Tranſubſtantiation.</item>
+               <item>Dr. <hi>Hicks</hi>'s Sermon, the Spirit of Enthuſiaſm, 4<hi rend="sup">o.</hi>
+               </item>
+               <item>—The ſtrongeſt Temptation Conquerable by Chriſtians.</item>
+               <item>—'s <hi>Peculium Dei,</hi> 4<hi rend="sup">o.</hi>
+               </item>
+               <item>—'s True Notion of Perſecution.</item>
+               <item>—'s Moral <hi>Slechinah,</hi> 4<hi rend="sup">o.</hi>
+               </item>
+               <item>—'s <hi>Spittle</hi> Sermon, 4<hi rend="sup">o.</hi>
+               </item>
+               <item>—'s Sermon <hi>Worceſter, May</hi> 29th. 4<hi rend="sup">o.</hi>
+               </item>
+               <item>—'s — <hi>Jan.</hi> 30th. 4<hi rend="sup">o.</hi>
+               </item>
+               <item>Mr. <hi>Hopkins</hi>'s Sermon before the Lord Mayor.</item>
+               <item>Mr. <hi>Battell</hi>'s Sermon at the Aſſizes at <hi>Hertford.</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:49716:4"/>
+            <pb n="1" facs="tcp:49716:4"/>
+            <head>A SERMON Preached in the Pariſh Church of NEWBURY, <hi>Berks,</hi> On the 26th of <hi>July,</hi> 1685.</head>
+            <head type="sub">Being the Day of Thanksgiving for His Majeſty's Late Victory over the Rebels.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>2</hi> Sam. <hi>18.28. the latter part of the Verſe.</hi>
+                  </bibl>
+                  <p>—Bleſſed be the Lord thy God, which hath de<g ref="char:EOLhyphen"/>livered up the Men, that lift up their Hand againſt my Lord the King.</p>
+               </q>
+            </epigraph>
+            <p>THey are the Words of <hi>Ahimaaz,</hi> the Son of <hi>Zadok</hi> the Prieſt, when he brought King <hi>David</hi> the good News of the Rebel <hi>Abſalom</hi>'s Defeat. And that I may ſuit my preſent Diſcourſe upon the Text to the preſent Solemnity of the Day (this being the Day, wherein we are comman<g ref="char:EOLhyphen"/>ded
+<pb n="2" facs="tcp:49716:5"/>by His Majeſty, to return our Juſt Tribute of Praiſe and Thanksgiving, to His, and Our Dread So<g ref="char:EOLhyphen"/>veraign, the King o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Heaven and Earth, for his Infinite Goodneſs both to Him and us, in delivering us from one of the moſt Infamous Rebellions, that was ever contrived in Hell) I ſay, that I may ſuit my Diſcourſe to the Solemnity, I ſhall conſider in the Words, that I have read theſe Three Things, which they very natu<g ref="char:EOLhyphen"/>rally preſent to our Obſervation:</p>
+            <list>
+               <item>
+                  <hi>Firſt,</hi> The Rebellion it ſelf.</item>
+               <item>
+                  <hi>Secondly,</hi> The Defeat of the Rebels; and,</item>
+               <item>
+                  <hi>Thirdly,</hi> The Thanksgiving for the Defeat.</item>
+            </list>
+            <p>The Firſt being plainly ſignified to us, <hi>in their lift<g ref="char:EOLhyphen"/>ing up their Hands againſt the King:</hi> The S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cond, <hi>in God's delivering up the Men,</hi> that <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad ſo done; and the Third, <hi>in</hi> Ahimaaz <hi>his Bleſſing God, for ſo delivering of them up.</hi> I begin,</p>
+            <p n="1">I. With the Firſt of theſe, The Rebellion it ſelf, or the Peoples <hi>lifting up their Hands againſt the King;</hi> where I ſhall conſider.</p>
+            <list>
+               <item>1. The Author.</item>
+               <item>2. The Impudence; and,</item>
+               <item>3. The Miſchiefs of the Rebellion.</item>
+            </list>
+            <p>
+               <hi>Firſt,</hi> For the Author of this Rebellion, I have already hinted to you, and if you look into the Context, you will find 'twas <hi>Abſalom;</hi> One of King <hi>David</hi>'s Sons, per<g ref="char:EOLhyphen"/>verted and alienated from his Duty and Allegiance to the King, through the vile Suggeſtions of the Devil and <hi>Achitophel,</hi> by the too early deſires, and forbidden hopes of Empire and a Crown. An ambitio<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, vain, young Man, ſeduced upon ſlender Grounds into a great opinion of Himſelf, and by that opinion betrayed into ill Counſels, and worſe Actions, to the Grief of his Fa<g ref="char:EOLhyphen"/>ther, and his own Shame.</p>
+            <pb n="3" facs="tcp:49716:5"/>
+            <p>The King, ye muſt know, had<note n="*" place="margin">2 Sam. 14.24.</note> Baniſhed him his Preſence and the Court, for his ill Behaviour; for no le<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s a Crime than<note n="*" place="margin">2 Sam. 13.23,—30.</note> Murther; and the Murther no leſs, than that of his own Brother; and that too, when he had firſt made him Drunk with that deſign, and that deſign carried on under a pre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence of Friendſhip, when he had invi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed him and other of the King's Sons to a Solemn Feaſt. A Crime, one would have thought, too great to have been eaſily forgiven. But notwith<g ref="char:EOLhyphen"/>ſtanding ſo<note n="*" place="margin">Chap. 13.39.</note> fond was the King of this vile Fellow, even to a Fault, that after ſome time, he gives him his<note n="*" place="margin">Chap. 14. <hi>ult.</hi>
+               </note> Pardon, receives him again into his Preſence and his Favour, and treats him with all the Tenderneſs of a Father, with all the Magnificence of a King.</p>
+            <p>And now, ſuch was the Fools Vanity and Vain Gl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ry, he thinks to vie Splendor with the Court, lives at an Extravagant rate, gets him a mighty Retinue;<note n="*" place="margin">Chap. 15.1.</note> 
+               <hi>Prepares him Chariots and Horſes, and has no leſs th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n 50 Men to run before him.</hi> Now he thinks himſelf a Prince: and ſo he was, and might have been as happy a Prince as any was in the World, if he had not aſpi<g ref="char:EOLhyphen"/>red to a Crown. B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t nothing leſs than a Crown will gratify his Ambition; and to gratify that like a Vile Traytor, he applies himſelf to diſhonourable and diſin<g ref="char:EOLhyphen"/>genuous Arts, to ſordid and ignoble Practices; unwor<g ref="char:EOLhyphen"/>thy of his Education; unworthy of his Birth, unwor<g ref="char:EOLhyphen"/>thy the Son of ſuch a Father.</p>
+            <p>Immediately he ſtrikes in with the Faction, to libel and traduce the Government; repreſents it as Arbi<g ref="char:EOLhyphen"/>trary, Tyrannical, Illegal and Unjuſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is as forward as they that were moſt, to tax the Corruptions of the Court, and to talk of the Grievances o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Subject: As if their Liberty and Property, their Privileges and
+<pb n="4" facs="tcp:49716:6"/>Immunities were all at Stake, and there were no hopes nor proſpect of good Times, till the Evil Councellors, or the King, or both were removed.</p>
+            <p>
+               <note n="*" place="margin">Chap. 15.2,—7.</note> 
+               <hi>And</hi> Abſalom <hi>roſe up early, and ſtood beſide the way of the Gate;</hi> to ſhew his zeal for the People and the Peoples good, he gets him very early to the Palace, or to the Courts of Juſtice, and other publick Conventi<g ref="char:EOLhyphen"/>ons; and if any man came to have a Grievance redreſs<g ref="char:EOLhyphen"/>ed, he takes him aſide privately, and tells him (with<g ref="char:EOLhyphen"/>out any more ado) there was no good to be done. <hi>See,</hi> ſays he, <hi>Thy Matters are Good and Right;</hi> thou haſt a juſt Cauſe, and 'tis pity but thou ſhouldeſt have Juſtice done thee: But alas, here's no Juſtice, no Equity, no Religion at Court. There's nothing but Bribery and Corruption among 'em, from the higheſt to the loweſt; <hi>There is no man deputed of the King to hear thee;</hi> or (as you will find it rendred in the Margin of their Bibles) <hi>None will hear you from the King downward:</hi> Neither the King nor any that are about him: They are all alike, and alike corrupt. <hi>Oh that I were made Judge in the Land</hi> my ſelf, that the Government were in my hands, <hi>that every man, which has any Suit on Cauſe, might come to me, and I would do him Juſtice!</hi> Then all ſhould <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e reformed, and all manner of Grie<g ref="char:EOLhyphen"/>vances redreſſed. <hi>And ſo it was, that when any one came night to him, to do him Obeyſance,</hi> to kiſs his Hand, and to acknowledge his Princely Goodneſs and Favour toward him, <hi>He put forth his hand, and took him, and kiſſed him;</hi> embraced and hugged him with all the ſweetneſs and Condeſcenſion imaginable, and without any reſpect of Perſons. As if he (good man) had no other Deſign in aſpiring to be King, but to ſerve the People, and 'twere the height of his Ambi<g ref="char:EOLhyphen"/>tion
+<pb n="5" facs="tcp:49716:6"/>to oblige his Friends; to free 'em from Illegal Taxes and Impoſitions, and to maintain their juſt Rights. <hi>On this manner did</hi> Abſal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m <hi>to all</hi> Iſrael <hi>that came to the King fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Judgment: and ſo</hi> Abſalom <hi>ſtole the hearts of the Men of</hi> Iſrael, as you will find in the former part of the 15 Chapter of this Book.</p>
+            <p>So <hi>Abſalom</hi> ſtole the Hearts of the People to him<g ref="char:EOLhyphen"/>ſelf, not doubting but when he had done that, he ſhould be able to ſteal the Crown too, from the head of the King. So eaſily and by ſuch little Arts did he delude and cheat the eaſy Multitude; and by thus ſly<g ref="char:EOLhyphen"/>ly inſinuating himſelf into their Affections, as 'twere, Pilfer their Duty and Allegiance from 'em, which was their Soveraigns Undoubted and Legal Right: Thus he ſtudied, as he affected Popularity, and <hi>courted the People,</hi> only to be <hi>courted by them.</hi>
+            </p>
+            <p>And he had his ends in a great meaſure beyond the good Kings, or any honeſt Mans expectation. For tho' at this very time he were guilty, and they knew him to be guilty, of the Higheſt Crimes in Nature, (as if his aſpiring Genius had aim'd at a kind of Supre<g ref="char:EOLhyphen"/>macy in Vice as well as Government) tho they knew him to be guilty of no leſs than<note n="*" place="margin">Chap. 13.24,—30.</note> Murther, Premedi<g ref="char:EOLhyphen"/>tated Murther, and Drunkenneſs, and Treachery, and Revenge; as he was afterwards, during the Rebellion, of<note n="*" place="margin">Chap. 16.22.</note> Adultery and Inceſt, to that Degree of Impudence, that perhaps no Man ever was before or ſince; and all along of the moſt intolerable Perfidiouſneſs to God and Man, that the Devil could tempt, or Man be tempted to; yet even theſe were Venial, they were ſmall Sins, in ſo great a Saint, in ſo Gracious an Aſſer<g ref="char:EOLhyphen"/>tor of their Liberties and their Religion, as he was now become. His Godly Pretences, and his pretended zeal for
+<pb n="6" facs="tcp:49716:7"/>the <hi>Good Old Cauſe,</hi> were enough to ſanctiſy, or at leaſt to atone for all his Faults; and did in the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſue ſo far recommend him to the Factious Party, that by the Advice of the great Idol,<note n="*" place="margin">Chap. 15.12.</note> 
+               <hi>Achitophel</hi> (whoſe Coun<g ref="char:EOLhyphen"/>ſel, tho' ſuggeſted by the Devil, was always ſo highly Oracular among the People, that the Text tells us,<note n="*" place="margin">Chap. 16. <hi>ult.</hi>
+               </note> 
+               <hi>'twas as if one had enquired a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Oracle of God</hi>) they ſoon determined to betake themſelves to Arms under his Conduct; and by venturing upon an Inſurrection (which in effect was venturing their Lives to damn their Souls) <hi>to put things to a puſh.</hi>
+            </p>
+            <p>Accordingly with a very<note n="*" place="margin">Chap. 15 7, 8, 9.</note> Religious pretence, he ſets out for <hi>Hebron,</hi> a place not far from <hi>Giloh,</hi> the<note n="*" place="margin">Chap. 15.12.</note> Seat of that Arch-Traytor, <hi>Achitophel,</hi> and ſo the moſt Factious part of the Kingdom; where he had moſt In<g ref="char:EOLhyphen"/>tereſt and Acquaintance, and where that old Fox had by himſelf and by his Agents pretty well prepared People for the Deſign.</p>
+            <p>You muſt think he was very ſecure and confident of the Parties coming in to his Aſſiſtance; eſpecially from <hi>Giloh,</hi> and the Places thereabouts, where his own Acquaintance, and where <hi>Achitophel</hi>'s Intereſt and Eſtate lay. For when he came to <hi>Hebron,</hi>
+               <note n="*" place="margin">Chap. 15.11.</note> 
+               <hi>he brought but</hi> 200 <hi>Men with him:</hi> A ſmall Army to defy ſo War<g ref="char:EOLhyphen"/>like and ſo Great a Prince as <hi>David</hi> was, that had ſo much a better Cauſe, and ſo much greater Power to defend it.</p>
+            <p>But the Rebel was ſo Fool-hardy, that he fear'd not God nor Man: Tho' he had brought but theſe 200 with him, he ventures to<note n="*" place="margin">Chap. 15.10.19.10.</note> Proclaim himſelf King; and then ſets up his Standard, and requires the Coun<g ref="char:EOLhyphen"/>try, upon their Allegiance, to ſtand by him. And the giddy Multitude had no more Senſe of Duty to God or
+<pb n="7" facs="tcp:49716:7"/>his Vicegerent, than to ſubmit to this Sham-Prince; and to venture their Lives and Fortunes, their Souls and Conſciences in his Defence, againſt their Rightful and Natural Soveraign, whom Heaven had by a Mira<g ref="char:EOLhyphen"/>cle of Providence placed upon the Throne. For now <hi>the Conſpiracy was ſtrong, and the People increaſed con<g ref="char:EOLhyphen"/>tinually with</hi> Abſalom. Chap. 15.12.</p>
+            <p>His Gracious Promiſes, and fair Speeches, drew a<g ref="char:EOLhyphen"/>bundance of the Diſcontented, and the Poor, and the Ignorant, and the Ill-affected, after him; ſome, no doubt, out of hopes to gratify their Revenge, others their Covetouſneſs, and others their Ambition; ſome to repair, ſome to make their Fortunes; this Party ex<g ref="char:EOLhyphen"/>pecting Liberty of Conſcience, that Freedom from Taxes; all to have every thing to their own minds; till at length they all united in a Formidable Army, that alarm'd the Fears, and threatned the Ruine of the King and Kingdom.</p>
+            <p>An Action very Unaccountable in it ſelf: but 'twill appear ſtranger yet, if after we have conſidered the Author, we proceed,</p>
+            <p>
+               <hi>Secondly,</hi> To conſider the Impudence of the Rebelli<g ref="char:EOLhyphen"/>on, which was indeed ſo Exceeding Great in the whole Management of the thing, that it had then no Parallel in all the preceding Annals of Time; all the Rebels in Hell having never been able, in two thouſand nine hundred years and more, to bring any of their Diſciples upon Earth to any thing like it.</p>
+            <p>For beſides that 'twas begun, as you have partly heard already, with a pretence of Religion, under t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Colour of<note n="*" place="margin">Chap. 15.7, 8, 12.</note> 
+               <hi>paying a Vow,</hi> and <hi>offering</hi> an <hi>Euchariſtical Sacrifice</hi> at <hi>Hebron,</hi> (which by the way was contrary to Law, and made a perfect <hi>Conventicle</hi> of the Aſſem<g ref="char:EOLhyphen"/>bly,
+<pb n="8" facs="tcp:49716:8"/>
+               <note n="*" place="margin">Levit. 17.3, 4, 5, 6. Deut. 12.4, 5, 6,—:2.</note> God having poſitively forbid his People to offer either Sacrifice or Vow in any place whatſoever, but where he ſhould chuſe to put his Name, where the Ark or the Tabernacle were, which was now at <hi>Je<g ref="char:EOLhyphen"/>ruſalem</hi>) I ſay, beſide this, tho' the Rebel Proclaimed himſelf King upon the place, he had no more Pretence or Title to the Crown, than any of the reſt that were in the <hi>Aſſociation:</hi> For <hi>David</hi> was actually ſettled in the Throne, and had all the Right to the Kingdom that a King could have. And moreover, as <hi>Abſalom</hi> had himſelf an<note n="*" place="margin">2 Sam. 3.3.</note> Elder Brother, ſo God had particularly Choſen<note n="*" place="margin">2 Sam. 7.12, 13. <hi>Compared with</hi> 2 Sam. 12.24, 25. 1 Chron. 22.7.—11. 1. Chron. 28.5, 6, 7.</note> 
+               <hi>Salomon,</hi> of all the Sons of <hi>David,</hi> to ſucceed him in the Throne; and that long before this <hi>Trayte<g ref="char:EOLhyphen"/>rous Aſſociation</hi> was ſet on Foot by <hi>Achitophel.</hi> So that if <hi>David</hi> had been dead, <hi>Abſalom</hi> had had no pretence to the Crown, much leſs could he have any, during <hi>David</hi>s Life.</p>
+            <p>From whence 'tis plain, that he rebelled againſt his Lawful and Undoubted Soveraign, and one that he was bound, by the Laws of God, and by the Laws of the Land, to yeild Faith and Allegiance to. Add to this, that the Laws of Gratitude had tied him in the ſame Bond; the King having laid all the Obligations upon him, that a King could lay, while he was fit or capable to be Obliged. He had conferred upon him great Favours, he had pardoned him great Crimes, he had given him great Aſſurances of ſuture Kindneſſes, notwithſtanding his paſt Miſde<g ref="char:EOLhyphen"/>meanors.</p>
+            <p>Nor had he only obliged this Rebel, but the whole Jewiſh ſtate: He had often ventured even his own Life in defence of the Nation, and that with good ſucceſs too, againſt the moſt implacable and bitter E<g ref="char:EOLhyphen"/>nemies
+<pb n="9" facs="tcp:49716:8"/>of its Peace. He was really the Defender of their Faith, of their Religion, of their Liberties and Rights: A Prince beloved of God and Man; of ex<g ref="char:EOLhyphen"/>emplary Piety, of undaunted Courage, of Impartial Ju<g ref="char:EOLhyphen"/>ſtice; one that governed according to Law, and under whoſe Government they were, or might have been, if they would themſelves, as eaſie, as happy, as ſafe, as any People under Heaven: They had the free Liberty of Profeſſing, and of making a publick Profeſſion of the True Religion: They were permitted to live a quiet and a peaceable Life in all Godlineſs and Honeſty; They were permitted a quiet and peaceable Enjoyment of their Properties and Eſtates: They had all the Privi<g ref="char:EOLhyphen"/>leges and Immunities, that one would have thought their Hearts could wiſh; ſate every Man under his own Vine, and his own Fig tree; and, what others could not, called what they had their own; ſo that they had all the reaſon in the World to praiſe God for his Government, and to pray to God for his Life; having nothing to diſturb 'em but themſelves, and their own ſenſeleſs Fears and Jealouſies.</p>
+            <p>Yet even againſt ſuch a Prince, and in ſuch circum<g ref="char:EOLhyphen"/>ſtances as theſe, was this Rebellion both raiſed and car<g ref="char:EOLhyphen"/>ried on, to the infinite diſhonour of God, to the horrid ſcandal of Religion, to their own eternal ſhame, to the wonder and amazement of all the World: in contra<g ref="char:EOLhyphen"/>diction to their bounden Duty, to their ſolemn Vows; in affront to Divine and Humane Authority, in defiance of Heaven and Earth; with that audacious Virulence, with that Virulent and envenomed rage, as if his Gra<g ref="char:EOLhyphen"/>cious Majeſty had been the worſt of Tyrants, and the worſt of Men; or as if the impudent Rebel had had at once the faireſt Title, and the fouleſt uſage in the world.</p>
+            <pb n="10" facs="tcp:49716:9"/>
+            <p>For having moſt unjuſtly taken up Arms againſt his Majeſty's Perſon, Crown and Dignity, to fill up the mea<g ref="char:EOLhyphen"/>ſure of their Impudence, they threw Stones, they threw Dirt in his Face: And they, that ought not<note n="*" place="margin">Eccl, 10.20.</note> 
+               <hi>to have cur<g ref="char:EOLhyphen"/>ſed the King ſo much as in their thoughts,</hi> preſumed to curſe him openly both in Words and Actions. <hi>And when David came to Bahurim, behold there came out a man, whoſe name was Shimei,</hi> one of the chief of the Rebels, and 'tis not to be thought, he was alone, <hi>he came forth, and curſed ſtill as he came, and he cast ſtones at David, and at all the Servants of King David;</hi> in contempt both of Majeſty, and Loyalty, <hi>he curst ſtill as he went, and threw ſtones and caſt</hi> duſt, or as 'tis in the marginal Tranſlation, <hi>duſted him with duſt,</hi> (chap. 16.5, 6, 13.) gave him as ill names, and accuſed him of as ill things, as were poſſible, to affront his perſon, to ſully his Reputation, to render him and his Government odious to the world.</p>
+            <p>It ſeems Stones and Dirt, hard Speeches, and foul Language were great part of their Ammunition; (as indeed they are always a great part of the Artillery of a Rebel) and they diſcharged all they had; they ſhot out their Arrows, even bitter words, as well againſt the King himſelf, as againſt thoſe that had Loyalty, that had honeſtly enough, to adhere to his Perſon, or to aſſert his Cauſe.</p>
+            <p>In all theſe Commotions 'tis obſervable, that the Church, as indeed 'twas fit it ſhould be, was always Loy<g ref="char:EOLhyphen"/>al, and eminently Faithful to the Crown. <hi>Lo Zadok the Priest, and Abiathar, and all the Levites were with David, bearing the Ark of the Covenant of God</hi> (chap. 15.24.) that is all the regular conforming Clergy; for there were a ſort of <hi>Diſſenters</hi> too among the Jews;
+<pb n="11" facs="tcp:49716:9"/>and there is no doubt, but <hi>Abſalom,</hi> when he went to ſacrifie at <hi>Hebron,</hi> had certain Prieſts there, that were of his own, <hi>i. e.</hi> of no Religion; that were for his own Turn, and after his own Heart; that blew the Trumpets of Sedition, and ſo ſacrificed to Devils, and not to God; which to be ſure, <hi>it was not Lawful for 'em to do:</hi> But, I ſay, the regular Clergy, they that kept to the Laws, and obſerved the Canons of the Church, they were all with <hi>David;</hi> their Hearts were with him, their Prayers were for him, they wiſht well to his Perſon, they wiſht well to his Cauſe, they were ſorry for his Troubles, and added Tears to their Prayers, the beſt Weapons they were able, or had any Commiſſion to uſe againſt the Rebels. And all Loyal good men joyned with 'em in their Lamentati<g ref="char:EOLhyphen"/>ons. <hi>All the Country wept with a loud voice (Chap.</hi> 15.23.) All the conſiderable, all the honeſt part of City and Country bewail'd and lamented the Rebellion.</p>
+            <p>All which conſiderations, together with many more of the like nature, that might be urged, not only ar<g ref="char:EOLhyphen"/>gue the guilt, but demonſtrate the impudence of the thing, ſo much beyond diſpute, that whoever has any ſenſe either of honeſty or ſhame, cannot but abominate the very thoughts of an Action, they had the Fore<g ref="char:EOLhyphen"/>head to act, ſo extremely ſcandalous ſo ſcandalouſly vile. For, if thus to trample upon Majeſty, to fight againſt Heaven and revile the Gods; if to fight for a King<g ref="char:EOLhyphen"/>dom without a Title to a Crown, to raiſe a Rebellion againſt a Lawful, a Valiant, a Juſt, a Good King; againſt the Laws of God, againſt the Laws of the Realm, againſt the Laws of Gratitude; contrary to the Doctrine, to the Practice of the Church to their own Promiſes and Oaths, and to the Sentiments of all good Men;
+<pb n="12" facs="tcp:49716:10"/>if this be not the very height of impudence, we may in due time learn modeſty from <hi>Lucifer,</hi> and acquit the <hi>old Rebel,</hi> of Preſumption. But,</p>
+            <p>
+               <hi>Thirdly,</hi> As the Rebellion was extremely impu<g ref="char:EOLhyphen"/>dent in it ſelf; ſo 'twas extremely fatal and miſchievous; and had it ſucceeded, muſt have been much more ſo in its effects.</p>
+            <p>'Tis indeed hard to recount the miſeries and calami<g ref="char:EOLhyphen"/>ties of any inteſtine and unnatural Rebellion, whether it ſucceed or no. The miſchiefs, that naturally enſue are always great, and always dreadful, not only to the Rebels, but to the King, to the People, to the Church, to Religion in general, that ought to be dearer to us all than Liberty, or Property, or Life.</p>
+            <p>And as for the Rebellion in my Text, could I give you a proſpect of a Country waſted and harraſſed by the Violence of Blood-thirſty and Deceitful Men, or ſet before you the Outrages, the Rapes, the Plunders, the Frights uſually committed and cauſed by military in<g ref="char:EOLhyphen"/>ſolence; could I repreſent to you, with the <hi>confuſed noiſe of War,</hi> the horror and ſadneſs of Men wallow<g ref="char:EOLhyphen"/>ing, and <hi>Garments rowled in Blood;</hi> could I draw you the diſmal ſcene of a Land defiled and covered, or of Fields and Houſes filled with Murther, Rapine, Vil<g ref="char:EOLhyphen"/>lainy, and Luſt; could I delineate the miſery or Ex<g ref="char:EOLhyphen"/>preſs the cries of Widows and Orphans, made ſo by the Sword, or compute the number of Families utterly rui<g ref="char:EOLhyphen"/>ned, according to their Tribes; could I deſcribe the troubles of a Perſecuted King, or the ſorrows of Afflict<g ref="char:EOLhyphen"/>ed Innocence; could I ſet before you the Grief of the Church, or exhibite the Joy and Triumph of the Ene<g ref="char:EOLhyphen"/>mies of God, upon this occaſion; yet after all, I could give you but a rude and imperfect draught of that
+<pb n="13" facs="tcp:49716:10"/>abomination of deſolation, that this Rebellion cauſed in <hi>Judea.</hi>
+            </p>
+            <p>The Truth is, the Miſeries of a Civil War are more than can be imagined by any, but thoſe that feel 'em; and too great to be expreſſed by thoſe that do. And therefore we only read, that <hi>David Wept as he went, and had his Head cover'd, and went barefoot,</hi> in To<g ref="char:EOLhyphen"/>ken of a Profound and Inexpreſſible Sorrow; <hi>and all the People that were with him, covered every Man his Head, and they went up by the Aſcent of the Mount Olivet, Weeping as they went.</hi> (Chap. 15.30.) Weep<g ref="char:EOLhyphen"/>ing, to think of the Miſeries that were come upon 'em, to think of the Calamity, the Trouble they were in<g ref="char:EOLhyphen"/>volved in.</p>
+            <p>Their Calamity was Great, tho' the Rebellion did not ſucceed: But had <hi>This</hi> ſucceeded, <hi>That</hi> had been infinitly greater. It muſt have ended in the utter Ru<g ref="char:EOLhyphen"/>in of <hi>David</hi> and all his Adherents, in the total Sub<g ref="char:EOLhyphen"/>verſion of the Government, in the fatal Overthrow of the Church. It muſt have entail'd <hi>Anarchy,</hi> and Con<g ref="char:EOLhyphen"/>fuſion upon the Land; have entail'd another, and per<g ref="char:EOLhyphen"/>haps a perpetual War upon the Nation. For tho' they had deſtroyed <hi>David,</hi> they could not deſtroy the King: The King could not Die: And to be ſure, the next Heir would have aſſerted his Right to the Crown: And if they had took off him too, the Kingdom could not want Heirs; or if it had, the Rebels would never have agreed long, who ſhould be uppermoſt. They would ſtill have been pulling down One, and ſetting up Another, till they had not known whom, or, what to have ſet up. For tho' it be eaſy to deſtroy a well Eſtabliſh'd Government, 'tis not ſo eaſy, when that's done, to Eſtabliſh another, that ſhall give either others,
+<pb n="14" facs="tcp:49716:11"/>or themſelves Content. And after all, it had been ten to one, but by their Inteſtine Differences, they had been made a Prey to Foreigners, and ſo have made Religion it ſelf a Prey too, to the Common Enemies of God, and of his Church.</p>
+            <p>And theſe had been <hi>Grievances</hi> indeed, as great as <hi>our Reformers,</hi> much greater <hi>Grievances</hi> themſelves, than any they had to <hi>redreſs.</hi> But it pleaſed God to prevent the greateſt Miſchiefs of all, by preventing the Succeſs of the Rebellion; which brings me to the 2d. thing conſiderable in my Text, and the more accept<g ref="char:EOLhyphen"/>able Subject of this Diſcourſe:</p>
+            <p n="2">II. The Rebels Defeat.</p>
+            <p>The People you ſee had rebelled under <hi>Abſalom:</hi> They were ſo Impudent, and ſo Miſchievous, <hi>to lift up their Hands againſt their Lord the King:</hi> But <hi>God delivered up the Men, that had done ſo Preſumptuouſly.</hi> He delivered up a great part of 'em to Slaughter, and he delivered up the reſt to Juſtice. So that 'twas an entire, and a ſpeedy, and a wonderful Defeat. And,</p>
+            <p n="1">1. I ſay 'twas an entire Defeat: For upon the very firſt Battle the Rebels were ſo utterly routed, that they had neither Courage nor Force to rally again, or to ſtand a ſecond Engagement.</p>
+            <p>It ſeems there were a<note n="*" place="margin">Verſe 7.</note> great many thouſands of 'em kill'd upon the Place, and the reſt put to Flight, and kill'd afterwards in great Numbers by the Kings Forces, and by the Country in the Purſuit. For they were pur<g ref="char:EOLhyphen"/>ſued like Beaſts of Prey, through the Fields and Fo<g ref="char:EOLhyphen"/>reſts of <hi>Judea;</hi> and like Beaſts of Prey, as they were, were taken and deſtroyed, and deſtroyed in Herds. 'Tis ſaid,<note n="*" place="margin">Verſe 8.</note> 
+               <hi>The Battle was ſcatter'd over the Face of all the Country, and that the Wood devoured more People
+<pb n="15" facs="tcp:49716:11"/>that day, than the Sword devoured.</hi> (v. 8. of this Chap.) i. e. as <hi>Joſephus,</hi> the <hi>Jewiſh</hi> Hiſtoriographer, explains it, There were more kill'd and taken Priſoners up and down the Country of <hi>Them</hi> that fled for their Lives into the Woods and Lanes, than there were ta<g ref="char:EOLhyphen"/>ken, or died in the Engagement.</p>
+            <p>Their now deſpiſed and deſpicable King <hi>Abſalom,</hi> having ſcaped Death in the Field, fled for his Life a<g ref="char:EOLhyphen"/>mong the reſt into the Foreſt; and in his Flight, by an equally ſtrange and juſt Judgment of God upon him, was taken and hanged:<note n="*" place="margin">Verſe 9.</note> Hang'd in an unaccountable manner, among the thick Boughs of a great Oak, be<g ref="char:EOLhyphen"/>tween Heaven and Earth, as unworthy of both, as fit for neither, forſaken of God and Man, and even of the Beaſt, that carried him: for the<note n="*" place="margin">Ibid.</note> very Beaſt he rode on forſook him too and fled, and <hi>in going away from under him</hi> ſufficiently <hi>rebuked the madneſs of the Re<g ref="char:EOLhyphen"/>bel;</hi> who hung there by the hair of his Head, in the Tree, till<note n="*" place="margin">Verſe 14, 15.</note> 
+               <hi>Joab</hi> one of the King's Officers with his Ser<g ref="char:EOLhyphen"/>vants did <hi>Execution</hi> upon him.</p>
+            <p>His chief Commander and fellow Rebel, the trea<g ref="char:EOLhyphen"/>cherous and perfidious <hi>Amaſa,</hi> was fled too for fear, the engagement being too hot for him, and had left both <hi>Abſalom</hi> and the Army, to ſhift for himſelf, but was found too, and<note n="*" place="margin">Chap. 19.13.</note> left to the mercy of the King.</p>
+            <p>And as for his <hi>Tutor Achitophel,</hi> the Author of the Aſſociation, and the Ring-leader of all this Villainy, ha<g ref="char:EOLhyphen"/>ving done all the miſchief he could; becauſe he found he could do no more, he had prevented Juſtice and<note n="*" place="margin">Chap. 17.23.</note> hanged himſelf; or, as ſome ſay, died for grief, ſometime before this engagement, and before <hi>Amaſa</hi> was made General of the Rebel Army: For ſowe read. That <hi>when Achitophel ſaw, that his Counſel was not followed,</hi> that
+<pb n="16" facs="tcp:49716:12"/>is, that <hi>Abſalom</hi> was not for making ſo quick a Diſ<g ref="char:EOLhyphen"/>patch of the Buſineſs, as he would have had him, <hi>he aroſe and gat him home to his Houſe, and put his Houſe<g ref="char:EOLhyphen"/>hold in order (made his Will) and Hang'd himſelf,</hi> (ſo our <hi>Engliſh</hi> and other Tranſlators ſay, but ſome will have it, he<note n="*" place="margin">Vide <hi>Grotii</hi> Annot. in <hi>Loc.</hi> and in <hi>Matth. 27.5.</hi>
+               </note> died out of Grief and Indignation, that the Rebel would not take his Meaſures at laſt; and others, that he<note n="*" place="margin">
+                  <hi>V.</hi> Menoch. <hi>and</hi> Sanctii Comment. in Loc.</note> was Suffocated or Strangled with ſome Diſeaſe, according to the Tradition of ſeveral of the <hi>Hebrews:</hi> However) 'tis ſure enough, <hi>He dyed and was buried in the Sepulchre of his Father;</hi> I ſup<g ref="char:EOLhyphen"/>poſe at <hi>Giloh,</hi> near to the Place where this Rebellion began. (Chap. 17.23.)</p>
+            <p>And now <hi>Achitophel</hi>'s Wiſdom being turn'd into Fooliſhneſs indeed, even to a degree beyond <hi>David</hi>'s Prayer (his maſter the Devil having made a Fool of him too, who never yet taught any Man to be wiſe for himſelf) <hi>Achitophel</hi>'s Wiſdom being ſo ſignally turned into Fooliſhneſs, and all the Heads of the Conſpiracy as ſignally delivered up into the Hands of Juſtice; to convince them and their Aſſociates, That Conſpiring a<g ref="char:EOLhyphen"/>gainſt God and the King, was, in effect, but Conſpiring againſt themſelves; I ſay, the Counſels of the Wicked being brought to Nought, and the Counſellors to Ju<g ref="char:EOLhyphen"/>ſtice; after ſo many Thouſands of the Rebels killed, and as many Thouſands taken, no wonder, that we do not hear any more of the Rebellion.</p>
+            <p>It had been a wonder indeed, if we had: For ſurely this was enough to give 'em an Entire Defeat: And ſo it did. So that the King had the moſt Abſolute Victory over the Rebels, that his Heart could wiſh; and that too, without ſo much as any the leaſt hazard to his own Royal Perſon. For tho' his Majeſty had a great mind to
+<pb n="17" facs="tcp:49716:12"/>have gone into the Army himſelf, his People would not ſuffer him; <hi>He being more worth,</hi> as they ſay very well, <hi>than Ten Thouſand of them.</hi> (Verſe 3.)</p>
+            <p>But to magnifie the Mercy of the Deliverance; as 'twas an entire, ſo I preſume 'twas,</p>
+            <p n="2">2. A ſpeedy Defeat: For tho' in all the Narrative of the Rebellion, we have no Relation of the Exact time, it laſt<g ref="char:EOLhyphen"/>ed; yet one may rationally conclude, it did not laſt long; eſpecially conſidering the vaſt Army, that the Rebel had gathered; which we cannot compute to be much leſs than<note n="*" place="margin">Verſe 7, 8.</note> 30000 Men; and that in all this time, with all theſe Numbers, there was but this one Pitch'd Battle; <hi>viz.</hi> this, that gave 'em the Defeat; which in all probability there would have been, had not their Ruin been al<g ref="char:EOLhyphen"/>moſt as ſudden, as 'twas Great.</p>
+            <p>For, beſides that <hi>Ju'dea</hi> was ſo ſmall a ſpot of Ground (being but Fourſcore Miles in breadth, and but Two Hundred in the utmoſt length of it) that two ſuch great Armies, as the King's and the Rebel's were, could not well be maintain'd, in any part of the Country, for any long Space; the Armies were never much a<g ref="char:EOLhyphen"/>bove Forty Miles apart, that we know of during the Rebellion: It being but Forty Four Miles from <hi>Jeru<g ref="char:EOLhyphen"/>ſalem,</hi> whereabouts <hi>Abſalom</hi> and his Party lay, moſt part of the time, to <hi>Mahanaim,</hi> where <hi>David</hi> was, and near which the Battle was fought.</p>
+            <p>So that the Hiſtory mentioning but this one Engage<g ref="char:EOLhyphen"/>ment, it may rationally be ſuppoſed, the Armies being ſo near one another all the while, that it was not long <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'re the Rebels were Defeated. However this we are ſure of:</p>
+            <p n="3">3. That 'twas a very ſignal and wonderful Defeat; and that there was a very particular Providence preſi<g ref="char:EOLhyphen"/>ded
+<pb n="18" facs="tcp:49716:13"/>over the King's Forces, and appeared all along of the King's ſide.</p>
+            <p>For nothing leſs than that Almighty Power, that in<g ref="char:EOLhyphen"/>tereſts it ſelf in the Protection of Righteous and Religi<g ref="char:EOLhyphen"/>ous Kings and States, profeſſing his Holy and Eternal Truth; nothing leſs than that Omnipotent Arm which ſtills at once the Rageing of the Sea, and the more Rageing Madneſs of the People: I ſay nothing leſs than the Divine and Almighty Power could preſerve the Royal Army from the Treachery and Force of ſo many Blood-thirſty and Deceitful Men.</p>
+            <p>We read that <hi>all the Men of</hi> Iſrael <hi>were with</hi> Abſa<g ref="char:EOLhyphen"/>lom; Chap. 17.24. All, we have reaſon to believe, <hi>from</hi>
+               <note n="*" place="margin">Chap. 17.11.</note> 
+               <hi>Dan even to Beerſheba.</hi> And the King tells us himſelf, in the 38th and the 69th, and in other <hi>Pſalms</hi> that he compoſed during this Unnatural Rebellion, That<note n="*" place="margin">Pſal. 38.11.</note> 
+               <hi>his Lovers and his Neighbours ſtood looking upon his Trouble, and his Kinſmen ſtood affar off:</hi> That,<note n="*" place="margin">Pſal. 38.19.</note> 
+               <hi>his Enemies lived and were Mighty; and that they who ha<g ref="char:EOLhyphen"/>ted him wrongfully were many in Number;</hi>
+               <note n="*" place="margin">Pſal. 69.4.</note> That, <hi>they who hated him without a Cauſe were more than the Hairs of his Head:</hi> With many other Expreſſions to the ſame purpoſe.</p>
+            <p>They were no doubt a Numerous, and had God been on their ſide, had been an Invincible Army. But it appeared, God was not for 'em: Heaven could not favour ſo Bad a Cauſe. 'Tis ſaid, <hi>The Lord had appointed to Defeat the Counſel of Achitophel, to this very Intent, that he might bring evil upon Abſalom,</hi> Chap. 17.14. That he might ſhew the Juſtice of his Providence, in the Deſtruction of him and all ſuch Unrighteous Re<g ref="char:EOLhyphen"/>bles.</p>
+            <p>And accordingly 'twas ſhewn: The Victory was ſo
+<pb n="19" facs="tcp:49716:13"/>ſignal, that Providence it ſelf ſeem'd to be engaged in the Fight. <hi>They Fought from Heaven: The Stars in their Courſes,</hi> as once<note n="*" place="margin">Judg. 5.20.</note> 
+               <hi>againſt</hi> Siſera, about 260 years before, <hi>the Stars in their Courſes Fought</hi> againſt <hi>Abſa<g ref="char:EOLhyphen"/>lom.</hi> The Lord himſelf Eminently aſſerted the Right of his Vice-gerent: So that they could not but ſay,<note n="*" place="margin">Pſal. 118.23.</note> 
+               <hi>This was the Lords doing, and'twas marvellous in their Eyes.</hi>
+            </p>
+            <p>For the Kings Forces, at leaſt they that engaged, were but few in Compariſon of the Rebels; and they were much fewer, that fell in the Engagement. We read of no leſs than<note n="*" place="margin">Verſ. 7, 8.</note> 
+               <hi>Twenty Thouſand</hi> of the Rebels, that were ſlain in the Battle; beſides we know not how many more deſtroyed and taken in the Purſuit: But not a Word of any Conſiderable Loſs, that the King or the King's Forces had, nor of any Conſiderable Officer of the King's that fell. The two chief of his Commanders <hi>Joab</hi> and <hi>Abiſhai</hi> we are ſure ſurvived the Defeat. From all which 'tis plain, 'twas<note n="*" place="margin">Pſal. 144.10.</note> 
+               <hi>God who gave Victory to his King, and delivered David his Ser<g ref="char:EOLhyphen"/>vant from the peril of the Sword.</hi> And accordingly in my Text, we have the Honour of the Victory aſcribed to God, who Defeated the Rebels, <hi>that had lift up their Hand againſt him.</hi> But this brings me to the third thing conſiderable in my Text.</p>
+            <p n="3">III. The Thankſgiving for the Defeat. <hi>And Ahimaaz ſaid unto the King, Bleſſed be the Lord thy God, which hath delivered up the Men, that lift up their Hand a<g ref="char:EOLhyphen"/>gainſt my Lord the King.</hi>
+            </p>
+            <p>In which words, the good Man firſt acknowledges God to be the Author of the Deliverance; and Se<g ref="char:EOLhyphen"/>condly Offers unto him the juſt Tribute of Praiſe and Thanks for the Deliverance that he wrought.</p>
+            <pb n="20" facs="tcp:49716:14"/>
+            <p n="1">1. I ſay he acknowledges God to be the Author, the ſole Author of the Deliverance. He Conſeſſes 'tis <hi>God, that delivered up the Men, that had lift up their Hands againſt his Lord the King.</hi>
+            </p>
+            <p>And the ſame acknowledgment the thankful King makes himſelf in the 30th. 37th. 124th. and in ſeveral. other <hi>Pſalms,</hi> that are concluded by Learned Men to have been Compoſed upon this very Defeat, wherein he confeſſes,<note n="*" place="margin">Pſal. 30.3.</note> That, <hi>the Lord had kept his Life from them that went down to the Pit;</hi> that,<note n="*" place="margin">Pſal. 30.11.</note> 
+               <hi>'twas he, that had turned his Heavineſs into Joy, and put off his Sackcloth, and girded him with Gladneſs:</hi> That,<note place="margin">Pſal. 37.39.</note> 
+               <hi>the Salvation of the. Righteous cometh of the Lord, who is alſo their Strength in the time of Trouble.</hi> And that,<note place="margin">Pſal. 124.1, 2, 3, 4.</note> 
+               <hi>If the Lord had not been on their ſide, now might they ſay, if the Lord had not been on their ſide, when Men riſe up againſt 'em, they had ſwallowed up 'em quick, when they were ſo Wrathfully diſpleas'd at 'em: Tea, the Waters had drown'd, 'em, and the Stream had gone oven their Soul; the deep, Waters of the Proud had gone even over their Soul;</hi> their Enemies had overwhelmed 'em like a mighty Deluge, and buried 'em in the Flood. And then he adds,<note place="margin">Verſe 6.</note> 
+               <hi>Bleſſed be the Lord, who has not given us over, as a Prey unto their Teeth:</hi> Which is the ſecond part of his Thankſgiving;</p>
+            <p n="2">2. The Oblation of his juſt Tribute of Praiſe and Thanks to the God, whom he had before acknowledg<g ref="char:EOLhyphen"/>ed for the Author of his Deliverance.</p>
+            <p>To which purpoſe we find him, in the forementi<g ref="char:EOLhyphen"/>oned, and in other <hi>Pſalms,</hi> Compoſed, as I ſaid be<g ref="char:EOLhyphen"/>fore, upon this Defeat,<note place="margin">Pſal. 30.1.</note> 
+               <hi>Magnifying the Lord, who had ſet him up, and not made his Foes to Triumph over him:</hi> And Commanding others to Magnifie the Lord with him:<note n="*" place="margin">Pſal. 31.23.</note> 
+               <hi>Oh Love the Lord all yet his Saints; for
+<pb n="21" facs="tcp:49716:14"/>the Lord preſerveth them that are faithful, and plente<g ref="char:EOLhyphen"/>ouſly rewardeth the Proud Doer.</hi>
+               <note n="*" place="margin">Pſal. 40.16.</note> 
+               <hi>Let all thoſe that ſeek thee, rejoyce, and be glad in thee; let ſuch as love thy Sal<g ref="char:EOLhyphen"/>vation, ſay continually, The Lord be Magnified.</hi>
+               <note n="*" place="margin">Pſal. 27.6.</note> 
+               <hi>And now ſhall my Head be lifted up above mine Enemies round about me.</hi> God has given me a Glorious Victory, and made me to Triumph over mine Enemies; <hi>there<g ref="char:EOLhyphen"/>fore will I offer in his Tabernacle Sacrifices of Joy; I will ſing, yea I will ſing Praiſes unto the Lord,</hi> &amp;c.</p>
+            <p>'Tis true the Death of <hi>Abſalom</hi> did ſomewhat leſſen and abate his Joy: and he ſeems to lament it with a Great Lamentation;<note n="*" place="margin">Verſe 33.</note> 
+               <hi>O Abſalom, my Son, my Son</hi> Abſalom, <hi>would to God I had died for thee, oh</hi> Abſalom, <hi>my Son, my Son!</hi> Inſomuch that 'tis ſaid, <hi>the Victory,</hi> for a time, <hi>was turn'd into Mourning unto all the People.</hi> Chap. 19.2. But 'tis not to be thought, he was ſorry for the Rebels Defeat. No, that had lately been the 01 matter of many Prayers; 'twas even now the mat<g ref="char:EOLhyphen"/>ter 01 of many Praiſes unto God. Doubtleſs 'twas not the Death of the Rebel, but the Death of the Man that he bewailed; a Man, whoſe Perſon he lov'd, and whoſe Crimes he would have pardon'd. Or rather, 'twas not the Death of the Rebel, but the Rebel's dying with the Guilt of Rebellion upon him; that he did not live, as he would have had him; that he did not live to repent; but went out of the World, as Rebels ge<g ref="char:EOLhyphen"/>nerally do, without any Remorſe for his Crime, with<g ref="char:EOLhyphen"/>out any ſenſe of his Sin or Danger; without making his Peace with God, or with the King; without which, there could be no hopes of Mercy for him.</p>
+            <p>And truly this is a ſad Conſideration indeed; ſo ſad, that I muſt beg your Pardon for mentioning it upon a day of Thankſgiving, upon a day of Joy. But all our
+<pb n="22" facs="tcp:49716:15"/>Joys in this World have a Tincture of Sorrow: And the Mercy of God is never the leſs to us, that others fall, and will fall into the hands of Juſtice.</p>
+            <p>
+               <hi>David</hi> therefore had reaſon to rejoyce, and he did rejoyce in the Goodneſs of God toward him. <hi>And</hi>
+               <note n="*" place="margin">Pſal. 21.1.</note> 
+               <hi>his Joy was great in his Salvation.</hi>
+            </p>
+            <p>And ſurely ours, my Brethren, ought to be no leſs: For God be bleſſed, we have the very ſame rea<g ref="char:EOLhyphen"/>ſon for Joy; we have the very ſame Obligation to Thankſgiving, with <hi>David</hi> and the Men of <hi>Judah</hi> in my Text. And I pray God, we may be as Joyful, we may be as Thankful as they were.</p>
+            <p>The truth is, our Caſe ſeems to be ſo much the ſame with theirs, almoſt in every Part<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cular, that I cannot but wonder, that I even ſtand amazed at the Exactneſs of the Parallel. For with Changing only the Names of Things, what has been ſaid of this Conſpira<g ref="char:EOLhyphen"/>cy of <hi>Abſalom</hi>'s, which was acted almoſt 3000. years ago, might paſs for the Hiſtory of our Late Rebellion: The one be<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng ſo perfect a Tranſcript of the other, both as to the Rebels Defeated, and as to the Defeat of the Rebels, that, in good earneſt, I am almoſt at a loſs what to ſay in the Application of the Subject, without ſaying over again, what I have ſaid already.</p>
+            <p>For we too have had a young, fooliſh <hi>Abſalom,</hi> the ill Son of a good King, corrupted by as Perfidious as Wicked an <hi>Achitophel,</hi> from all ſenſe of Duty to his Father, to his Prince; and by the like Vanity of Am<g ref="char:EOLhyphen"/>bition, by the like Affectation of Popularity, betrayed in<g ref="char:EOLhyphen"/>to as ill Counſels, into as ill Actions, to as bad an End. A Man, whom the King was himſelf once ſo Fond of, even beyond his Deſerts, that had he kept within the
+<pb n="23" facs="tcp:49716:15"/>Bounds of his Duty, he might have been as happy a Prince, as 'twas fit for a Subject to be, or as any Subject under Heaven. But, ſuch was his Folly, he ſoon for<g ref="char:EOLhyphen"/>feited his Majeſty's Favour by his Crimes; and by his Crimes even forced Indulgence it ſelf to baniſh him both the Court and Kingdom for a Time; and when afterwards reſtored to the King's Favour by his Pardon, which ought at once to have reſtored him to his Duty, was by that very Pardon encouraged, con<g ref="char:EOLhyphen"/>trary to all Gratitude, to all Reaſon, to commit grea<g ref="char:EOLhyphen"/>ter Crimes, than what before he was baniſh'd for; to ſide with the <hi>Faction</hi> againſt his Father and Benefactor, to abuſe the Mercy, to traduce the Government, to aſperſe the Actions, to attempt the Ruin of his Sove<g ref="char:EOLhyphen"/>raign; to raiſe a Rebellion in the Land, and to diſturb the Peace of the King and Kingdom.</p>
+            <p>We have had the Rebel, after the Example of <hi>Abſa<g ref="char:EOLhyphen"/>lom,</hi> with the ſame Foolhardineſs, and with the ſame Number of Men, with about 200, at his firſt Entrance upon the Rebellion, to Proclaim himſelf King, and to require People upon their Allegiance, <hi>i. e.</hi> quite con<g ref="char:EOLhyphen"/>trary to their Allegiance, to aſſiſt him in his Unrigh<g ref="char:EOLhyphen"/>teous Cauſe. But this being done near the Seat of <hi>A<g ref="char:EOLhyphen"/>chitophel,</hi> and where <hi>Achitophel</hi>'s and his own Intereſt lay, in the moſt Factious Part of the Kingdom: We have had likewiſe the <hi>Mock-King,</hi> in a very little time, attended and followed by thouſands; ſome out of Fear, ſome out of Hope, ſome in hopes of one thing, ſome another, till he came to terrifie a Mighty Nation, and to give Battle to a Mighty Prince.</p>
+            <p>And ſurely the <hi>Rebellion,</hi> was in all Reſpects as <hi>Im<g ref="char:EOLhyphen"/>pudent,</hi> as ever <hi>his Brother</hi> Abſalom's was; begun and carried on with the like Hypocritical Pretence, to aſſert
+<pb n="24" facs="tcp:49716:16"/>the <hi>Purity of Religion, and the Properties of the Subject, and to redreſs Grievances,</hi> in truth abundantly leſs than thoſe they cauſed: And this too, with no more Pre<g ref="char:EOLhyphen"/>tence of Title to the Crown, than his <hi>Achitophel</hi> or his <hi>Amaſa;</hi> nay, than the veryeſt Peaſant among his fellow Rebels, might have as juſtly claimed: and yet againſt a King, that had all the right and title in the World; againſt a King, that he had himſelf all the obligations in Nature, Perſonal, Civil, and Religious to be ſubject to; againſt a King, that has obliged, if any thing would obl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge the whole Nation, as well as him; that has, as <hi>David</hi> did for his people, often ven<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ured his Life for us, and to whoſe Grace and Mercy, under God, we owe our own Lives, our Liberties, our Properties, and Eſtates; to whoſe protection we are indebted, that we can call any thing our own; and by whoſe favour we enjoy all the Privileges and Immuni<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies we can in reaſon de<g ref="char:EOLhyphen"/>ſire or expect; againſt a King that has often engaged his Royal Word, and Sacred Promiſe, for the defence, for the ſupport of our Church and our Religion; and under whoſe Government we have Liberty, we have publick Liberty, to worſhip God, in a way ſuitable to his Nature, and agreeable to his Will; a way the moſt primitive, the moſt Apoſtolical of any that we know of upon the Earth; that is, under whoſe Government we are cerrainly at this day, or might be, it we would our ſelves, the happieſt people under Heaven.</p>
+            <p>Yet againſt a Prince of that Clemency and Good<g ref="char:EOLhyphen"/>neſs, that Juſtice and Veracity, that Magnanimity and Courage, that Honour and Renown, have our Da<g ref="char:EOLhyphen"/>ring Rebels had the forehead to take up Arms; and that too againſt more poſitive Laws, both Human and Divine, againſt clearer Revelations, and ſtricter Oaths
+<pb n="25" facs="tcp:49716:16"/>than ever <hi>Abſalom</hi> or <hi>Iſrael</hi> were obliged by. Nor have they only taken up Arms, but alſo carried along with 'em, as Rebels always do, their more Dreadful, their more Fatal Artillery of Slanders, Lies and Curſes; and even out-done <hi>Achitophel,</hi> and <hi>Shimei</hi> in their own way; with a Trayterous deſign to murther the Repu<g ref="char:EOLhyphen"/>tation, or at leaſt to wound the credit of the King and the Church; and indeed of all that are Loyal to the one, or Faithful to the other.</p>
+            <p>So notoriouſly has the Impudence of our Rebellion parallel'd that in my Text. And I wiſh I could not ſay, that the Parallel held likewiſe in its Conſequences and Effects. But that it really does, 'twere really as eaſy, as 'tis ſad, to ſhew you. Only I confeſs, I am unwilling to enter upon this task: I am unwilling upon a Thankſ<g ref="char:EOLhyphen"/>giving Day, upon a Day of rejoycing, to interrupt your Gratitude, or to leſſen your Joy, by reminding you of the Miſeries or Sorrows of the <hi>Weſt.</hi> 'Tis now too ſad and too Melancholy a ſubject, to reflect upon the Violence, the Rapine, the Deſolation, the Plunders, the Rapes, the Frights, the Profanations, the Murthers, or the Blood, that through theſe ſons of <hi>Corah,</hi> theſe Sons of <hi>Belial,</hi> the Land has miſerably ſuffered and been defiled by. Nor have I a mind, upon this happy and glad So<g ref="char:EOLhyphen"/>lemnity, to conſider, how much ſadder miſchiefs, how much greater ſorrows would have been the unhappy Conſequences of their ſucceſs; what Confuſion and Anarchy, what War, what Blood we muſt neceſſari<g ref="char:EOLhyphen"/>ly have been involved in; what our Religion, our Church, our Nation, our Poſterity, or We muſt una<g ref="char:EOLhyphen"/>voidably have Endured; what Tyranny, what Slavery. what Hereſies, what Schiſms, what Atheiſm, what Po<g ref="char:EOLhyphen"/>pery,
+<pb n="26" facs="tcp:49716:17"/>pety, we had been over-run and overwlielmed with; what Diſhonour had been done to God, what Scandal had been brought upon the Proteſtant name, what Vil<g ref="char:EOLhyphen"/>lainies had been Canonized for Vertues, what Calami<g ref="char:EOLhyphen"/>ti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of all ſorts would have enſued, had not God of his Mercy heard the Prayers of our moſt Holy Church, and <hi>abated the Pride, and aſſwaged the Malice, and con<g ref="char:EOLhyphen"/>founded the Devices of our Enemies?</hi>
+            </p>
+            <p>But the greater the Calamities the more calamitous the Conſequences of this infamous Rebellion either have, or would have been; the greater, and the more ſignal has been the goodneſs of God toward us, in giving us ſo abſolute, ſo ſignal a Victory over the Rebels.</p>
+            <p>For (God be Bleſſed) our Rebels too have had an Entire, and a Speedy, and a Wonderful Defeat; a Defeat, t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at in every reſpect equa's that in my Text, and runs as exactly Parallel with it, as the Rebe lion it ſelf does.</p>
+            <p>Our Rebels too were defeated in the very firſt Bat<g ref="char:EOLhyphen"/>tle, and notoriouſly routed beyond a poſſibility of re<g ref="char:EOLhyphen"/>cruit: Rill'd in great Numbers upon the Place, and in great Numbers forced to fly; and to fly likewiſe into the Fields and Woods, <hi>like Natural Brute Beaſts</hi> ('Tis the expreſſion of an<note n="*" place="margin">2 Peter 2.12.</note> Apoſtle) <hi>to be deſtroyed or taken there.</hi>
+            </p>
+            <p>Thither alſo fled our <hi>Abſalom,</hi> our <hi>Amaſa,</hi> having forſook their Conquered Army, themſelves forſaken of God and Man: and there too were they taken; and the one immediately brought to Juſtice as the other yet leſt to the mercy of the King, I could tell you moreover of our <hi>Achitophel</hi>'s Dying, as ſome ſay, <hi>for Indignation, that his Counſel was not ſo ſpeedily followed as
+<pb n="27" facs="tcp:49716:17"/>he would have had it, or that</hi> Abſalom <hi>harkened to more Dilatory Counſels, and ſlower Methods of Sedition than his were;</hi> however that he died before this Horrid and Trayterous Conſpiracy came to an Head, and having before he Died ſet his Houſe in Order, being buried too in the Sepulchre of his Father, near to the very place, where our Rebellion began.</p>
+            <p>I could tell you of others delivered up to Slaughter or to Juſtice, to Priſon or to Death, and of a general Diſperſion of all the reſt; contemptible pieces of Mor<g ref="char:EOLhyphen"/>tality, <hi>that are gone, that are vaniſhed, like a Shadow, and there place can no where be found.</hi>
+            </p>
+            <p>I could tell you, in the next place, of the Sudden<g ref="char:EOLhyphen"/>neſs, as well as the Entireneſs of their Defeat: how that their Calamity has riſen as ſuddenly, and as unexpect<g ref="char:EOLhyphen"/>edly to themſelves, as their Rebellion did to us: that they are ſpeedily fallen themſelves into the Pit they deſigned for others; and were not ſo ſwift to ſhed Blood, but they have brought upon themſelves as ſwift Deſtruction.</p>
+            <p>I could tell you yet farther, and I ought, That the Providence of God has appeared likewiſe very won<g ref="char:EOLhyphen"/>derfully and ſignally on our King's ſide; and, That Heaven has manifeſtly fought for us too, as it did for <hi>David</hi> and <hi>Judah,</hi> in old time: that we have vanquiſh<g ref="char:EOLhyphen"/>ed a numerous Army with the loſs of a Few: ſo very few, that perhaps no modern Story can parallel the Diſproportion; that if an hundred have not chaſed a Thouſand, nor two put two Thouſand to Flight; yet that, for ought we hear, with the loſs of not many more than two Hundred, we have routed more than twice two Thouſand.</p>
+            <pb n="28" facs="tcp:49716:18"/>
+            <p>I could tell you of many other Inſtances of the Di<g ref="char:EOLhyphen"/>vine Mercy toward us, that might make us, with <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> ſing for joy;<note n="*" place="margin">Pſ. 86.10.</note> 
+               <hi>Thou, O Lord, art great, and dost wondrous things, thou art God alone.</hi>
+               <note n="*" place="margin">Pſ. 77.14.</note> 
+               <hi>Thou haſt declared thy power among the People, Thou haſt mightily deliver<g ref="char:EOLhyphen"/>ed thy People, even the ſons of Jacob and Joſeph.</hi> But the time would fail me, and now, I fear, your Patience too, ſhould I inſiſt upon theſe things, or other things of this Nature: and what I have hinted to you already is ſo well known to the Nation, and to all of you here preſent, that having drawn one Line to your Hands, you may ſave me the Labour in drawing out the Pa<g ref="char:EOLhyphen"/>rallel your ſelves. Only I ſhall pray, that you and I may continue the Parallel to the end in our <hi>Thankſ<g ref="char:EOLhyphen"/>giving for the Defeat:</hi> which is indeed the Laſt, but ſhould be the Chief Part of our Task.</p>
+            <p>What therefore remains, my Brethren, but that with <hi>Ahimaaz</hi> in my Text, we alſo <hi>Bleſs the Lord our God, who has delivered up the Men, that lift up their Hands againſt, our. Lord the King?</hi> and after the<note n="*" place="margin">Pſ. 124.6.</note> Ex<g ref="char:EOLhyphen"/>ample of <hi>David, give him our juſt Praiſes, that he has not given us over as a Prey unto their Teeth?</hi> Our King has himſelf given us his Royal Example, He has given us his Royal Command for ſo doing. You have lately <hi rend="margQuotes">heard by This Proclamation, that upon due conſiderations hereof, he does with all Hu<g ref="char:EOLhyphen"/>mility, admire and adore the late Mercy and Good<g ref="char:EOLhyphen"/>neſs of God, in giving Victory to his Arms, and De<g ref="char:EOLhyphen"/>livering him and his Kingdoms from the Miſeries and Calamities, that might, and that conſtantly do enſue an Inteſtine and Unnatural Rebellion. And that, conſidering ſuch Signal and Publick Mercies
+<pb n="29" facs="tcp:49716:18"/>are an invitation from Heaven to render the moſt Publick and Chearful Expreſſions of Thankfulneſs to the Divine Goodneſs; that we who equally ſhare in the Bleſſings and Joys of this Deliverance, may be United in the Devotions, which are offered, for it, 'tis his Will, that the juſt Tribute of Praiſe and Thankſgiving to his and our Great Soveraign, the King of Heaven and Earth, be return'd by himſelf and us, for the late Mercy.</hi>
+            </p>
+            <p>Let then our Joy, let our Praiſe be as Publick, be as Univerſal as the Occaſion: Let us with <hi>David,</hi> let us with our King aſcri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the Honour of the Victory to God; let us offer Thanks and Praiſe unto God, who has given us the Victory. <hi>Let us give unto the Lord,</hi> my Friends, <hi>let us give unto the Lord Glory and Ho<g ref="char:EOLhyphen"/>nour, let us give unto the Lord the Glory due unto his Name. Oh! Praiſe the Lord with me, and let us Magnify his Name together; High and Low, Rich and Poor, Young Men and Maidens, Old Men and Children, let us all Praiſe the Name of the Lord; for his Name only is Excellent and his Praiſe above Heaven and Earth. Oh! ſing Praiſes, ſing Praiſes unto our God, ſing Praiſes unto our King, ſing Praiſes: for God is the King of all the Earth; ſing ye Praiſes with <g ref="char:V">Ʋ</g>nder<g ref="char:EOLhyphen"/>ſtanding. Let us Praiſe him with our whole Hearts, let us Praiſe him among much People; let as ſhew forth his Praiſe not only with our Lips, but in our Lives, by giving up our ſelves to his Service, and by ſerving him without Fear.</hi>
+            </p>
+            <p>
+               <hi>Let the Righteous be glad and rejoyce before God: Let them alſo be merry and joyful. Rejoyce in the Lord, ye Righteous; yea, and again, I ſay, rejoyce.
+<pb n="30" facs="tcp:49716:19"/>Shout unto God with the Voice of Triumph; ſhout for joy, all ye that are upright in Heart, that he has not made our Foes to Triumph over us, nor deliver<g ref="char:EOLhyphen"/>ed us into the Hands of the Wicked, whoſe very Mer<g ref="char:EOLhyphen"/>cies are Cruel. This is the Day, that the Lord has made, let us rejoyce and be glad in it, and be glad with exceeding Joy.</hi>
+            </p>
+            <p>But let us not ſhew our Joy by our Exceſſes: Nor let Gladneſs tranſport us beyond the Bounds of Sobri<g ref="char:EOLhyphen"/>ety and Diſcretion. For true Joy, as <hi>Seneca</hi> tells us, is a<note n="*" place="margin">Sen. Epiſt. 23.59.</note> 
+               <hi>Severe, a Serious and a Sober thing; and can no where be found, but in a temperate, a juſt, and a good Man.</hi> Who<g ref="char:EOLhyphen"/>ever rejoyces to Intemperance, rejoyces to Madneſs, rejoyces to his Sorrow: he muſt one day be ſorry for his very Joy. And ſurely <hi>all ſuch Rejoycing is Evil.</hi> This is not <hi>Rejoycing in God:</hi> For 'tis as Impoſſible as <hi>Abſurd,</hi> while we Rejoyce in his Mercy, to Provoke his Wrath.</p>
+            <p>
+               <note n="*" place="margin">Eccl. 7.14.</note> 
+               <hi>In this day of Proſperity therefore let us be Joyful;</hi> but let our Joy be Religious, let our Joy be Serious; or, to uſe the Expreſſion of King <hi>David,</hi> let us<note n="*" place="margin">Pſal. 2.11.</note> 
+               <hi>rejoyce with Reverence.</hi> Let us ſo rejoyce for paſt, that we do not render our ſelves unworthy of future Mercies. And if our Joy proceed from Gratitude, let it appear by our Obedience; by our Obedience to God, by our Obedience to the King; <hi>by performing the vows, that we promiſed with our Lips, and ſpake with our Mouths, when we were in Trouble.</hi>
+            </p>
+            <p>God of his Infinite Mercy hath delivered us from the Rebels; and let not us rebel our ſelves againſt the God of our Deliverance, nor againſt the King, whom God has delivered: But let us be thankful to God
+<pb n="31" facs="tcp:49716:19"/>for his Goodneſs to our Sovereign; let us be thankful to our Sovereign for his Goodneſs to us: And let us Expreſs our Thankfulneſs to the one, and to the other, by Honouring and by Fearing Both; that he who has already <hi>delivered us,</hi> may continue to <hi>deliver us from our Enemies, and from the Hands of all that hate us;</hi> till he ſettle us at length in the <hi>Holy Land,</hi> the Land of Reſt and Peace, where no <hi>Abſaloms,</hi> no <hi>Achi<g ref="char:EOLhyphen"/>tophels,</hi> nor any of their <hi>Aſſociates</hi> dwell, where even Conſpiracies are Impoſſible, and Rebellion has no place.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
